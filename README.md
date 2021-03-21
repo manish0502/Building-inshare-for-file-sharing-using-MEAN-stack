@@ -18,7 +18,7 @@ This project was generated with Sass , Nodejs ,ExpressJS  MongoDB & LaravelMix.
 ### Install Node.js ,Expressjsand MongoDB:
 ```sh
 $ git clone https://github.com/manish0502/https://github.com/manish0502/inshare-yttt.git
-$ npm i and  npm run de
+$ npm i and  npm run dev
 $ http://localhost:3000/ 
 ```
 ## Development server
@@ -32,7 +32,7 @@ Run `npm run server` for a dev server. Navigate to `http://localhost:3000/`. The
  * Nodejs , ExpressJs , Mongo-connect ,cors
  * NPM , MongoDB , multer
  * Animate.css - Animation library, use with ng-animate
- * Moment ,bcrypt
+ * Moment ,uuid
 ```
 
 ## Overall Directory Structure
