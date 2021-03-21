@@ -17,13 +17,23 @@ This project was generated with Sass , Nodejs ,ExpressJS  MongoDB & LaravelMix.
 
 ### Install Node.js ,Expressjsand MongoDB:
 ```sh
-$ git clone https://github.com/manish0502/https://github.com/manish0502/inshare-yttt.git
+$ git clone https://github.com/manish0502/Building-inshare-for-file-sharing-using-MEAN-stack.git
 $ npm i and  npm run dev
 $ http://localhost:3000/ 
 ```
 ## Development server
 
 Run `npm run server` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
+
+## API
+
+```   
+   * http://localhost:3000/api/files  (post : upload file)
+   * http://localhost:3000/files/8f375152-bb83-4985-b060-49f38e2baa37(uuid)   (get : download file)
+   * http://localhost:3000/api/files/send  (post : send email )
+   
+
+```
 
 
 ## Tools
