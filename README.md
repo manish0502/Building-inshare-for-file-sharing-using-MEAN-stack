@@ -38,7 +38,7 @@ Run `npm run server` for a dev server. Navigate to `http://localhost:3000/`. The
 
 ## Tools
 ```sh
- * SASS , passport-local for authentication ,ejs
+ * insomnia , passport-local for authentication ,ejs
  * Nodejs , ExpressJs , Mongo-connect ,cors
  * NPM , MongoDB , multer
  * Animate.css - Animation library, use with ng-animate
