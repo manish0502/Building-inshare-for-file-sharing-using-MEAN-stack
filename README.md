@@ -15,7 +15,7 @@ This project was generated with Sass , Nodejs ,ExpressJS  MongoDB & LaravelMix.
 
  Quick Start
 
-### Install Node.js ,Expressjsand MongoDB:
+### Install Node.js ,Expressjs and MongoDB:
 ```sh
 $ git clone https://github.com/manish0502/Building-inshare-for-file-sharing-using-MEAN-stack.git
 $ npm i and  npm run dev
